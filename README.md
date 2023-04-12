@@ -1,4 +1,4 @@
-## ToDo-list-App
+## CRUD NEXT JS 13 with CHAKRA UI
 
 ## Description
 Welcome to CRUD Porject! This is a CRUD made in Next JS 13. It allows users to quickly and easily listing posts, showing post detail, create post, and edit post.
