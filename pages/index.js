@@ -106,7 +106,7 @@ const Home = () => {
   return (
     <Box p={4}>
       <Heading as="h1" size="xl" mb={4}>
-        Posts
+        CRUD with CHAKRA-UI by Muhammad Hasim As'ari
       </Heading>
       <form onSubmit={handleSubmit(editId ? handleUpdate : handleCreate)}>
         <Box display="flex" alignItems="center">
